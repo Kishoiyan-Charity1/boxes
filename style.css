@@ -1,0 +1,35 @@
+#a{
+    position:relative;
+    width:400px;
+    height:400px;
+    background:#097918;
+    left: 450px;
+    top: 100px;
+    outline: 50px;
+    border: 5px dotted rgb(17, 83, 37);
+    border-radius: 20px;
+    
+}
+
+#b{
+    position:absolute;
+    top:50px;
+    left:50px;
+    background:rgb(15, 146, 146);
+    width:300px;
+    height:300px;
+    border-radius: 22px;
+
+}
+
+#c{
+    position:absolute;
+    background:rgb(240, 125, 192);
+    top:35px;
+    left:35px;
+    width:220px;
+    height:220px;
+    border: 0px;
+    text-align: center;
+    border-radius: 20px;
+}
